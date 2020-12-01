@@ -1,0 +1,5 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl printError(wchar_t const *)" (?printError@@YAXPEB_W@Z) в функции main.
+    Указание на символы, которые определены и могут подойти:
+      "void __cdecl printError(wchar_t *)" (?printError@@YAXPEA_W@Z)
+C:\Users\Алекс\source\repos\Project1\x64\Debug\Project1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
